@@ -49,7 +49,7 @@
    
 As both a potential startup product and a comprehensive portfolio piece, I have learnt and applied a range of technical skills across the full stack of web development, such as:
    
-   - Modern front-end development with React
+   - Front-end development with React
    - Back-end development using Node.js
    - AI integration, leveraging ChatGPT API for advanced document interaction
    - Vector database management (Pinecone) for efficient document retrieval
@@ -63,7 +63,7 @@ As both a potential startup product and a comprehensive portfolio piece, I have 
    - Text embedding and vector operations for enhanced document analysis
    - Custom algorithms for context-aware document content selection
    
-   EchoPDF represents a significant personal and professional journey in software development. What began as my final year project in early December 2023 evolved into a comprehensive full-stack application over the course of about seven months.
+   EchoPDF represents a personal and professional milestone in my software development journey. What began as my final year project in early December 2023 evolved into a comprehensive full-stack application over the course of about seven months.
    
    Key milestones in the project's development:
    
